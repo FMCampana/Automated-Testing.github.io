@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_28314190675 (Current order)</name>
+   <tag></tag>
+   <elementGuidId>fec47948-eac5-4017-8e0f-1708a37ca335</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://qa2-www.irby.com/shop/RESTOrderCalculate?updatePrices=1&amp;calculationUsageId=-1&amp;errorViewName=AjaxOrderItemDisplayView&amp;catalogId=3074457345616676718&amp;langId=-1&amp;URL=AjaxOrderItemDisplayView&amp;storeId=715838041&amp;orderId=.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WC_OrderList_Link_2_1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>28314190675 (Current order)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;WC_OrderList_Link_2_1&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>
