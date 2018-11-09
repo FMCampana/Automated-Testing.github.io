@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_formstack-rfq</name>
+   <tag></tag>
+   <elementGuidId>de8e80c1-e9e2-456c-aa16-00511d005a6d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formstack-rfq</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//soneparusa.formstack.com/forms/request_for_quote?field65114692=9221&amp;field65150920=9221&amp;field65206069=&amp;field65206068=&amp;field65148350=Happy Tester&amp;field65148398=&amp;field65148404=R F ELECTRIC, INC. (CRAWFORD)&amp;field65148385=automated.sonepar@gmail.com </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formstack-rfq&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>
