@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Crawford Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f955537a-acf0-41c5-a30f-5b06668c2eed</testCaseGuid>
+   <variable>
+      <defaultValue>'https://dev-www.crawfordelectricsupply.com'</defaultValue>
+      <description></description>
+      <id>1c80649a-cbe6-4b9b-9cd6-ae97dde51561</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>a9c875f4-b227-412c-82ff-ae14c5ef38cc</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>de1e7cc6-bb38-4b6d-a5a4-0cee92cec235</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>fc940956-a3d0-4b96-bf3b-e63c4d91a342</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>12 Minutes to run</description>
+   <name>Non-Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a995c458-b020-4f71-90e9-4759b8731b2b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0783546d-8b6d-4bf9-8fbb-b72a047d464d</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>561d8281-ee4b-44fb-8792-88ff55fc7f3c</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19b6e3e5-0c38-4843-bbcb-c420ba0101b3</id>
+      <masked>false</masked>
+      <name>XUserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>42a377a3-292a-4a97-afea-8e1aee926488</id>
+      <masked>false</masked>
+      <name>XUserPasswords</name>
+   </variable>
+</TestCaseEntity>

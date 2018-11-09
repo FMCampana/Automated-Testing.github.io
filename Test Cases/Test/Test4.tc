@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>13 Minutes to run</description>
+   <name>Test4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26038baa-2953-4828-b25e-f0a0441b925d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ab53bc0-b122-40c8-8b8e-638cfe15ccf3</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2cb4d89a-f382-4be7-be3d-60b502636ac1</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c6578ea-cf8e-4fa5-9686-008f0e5d61d1</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9ed7271-9288-44c9-b226-d01bdc3629c4</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPics</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef20306e-672e-478d-ae44-5757b9170941</testCaseGuid>
+   <variable>
+      <defaultValue>'https://qa2-www.crawfordelectricsupply.com/'</defaultValue>
+      <description></description>
+      <id>7590712b-0576-4ab7-b99b-af0b5bf41d89</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'automated.sonepar@gmail.com'</defaultValue>
+      <description></description>
+      <id>638f3881-04b0-42df-8ae8-19deb4a3eeba</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>9426e35a-b9bc-4c3a-8275-0da3f533ff94</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'6 AWG THHN 19 Strand Black Copper Cable, 5000 Foot Reel'</defaultValue>
+      <description></description>
+      <id>fc8c89f2-ef26-4d0c-adb5-7ac2b47114fa</id>
+      <masked>false</masked>
+      <name>ProdName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Users\\\\Fran Campana\\\\Desktop\\\\'</defaultValue>
+      <description></description>
+      <id>11e7d678-e529-42f1-a04d-882c30b12df3</id>
+      <masked>false</masked>
+      <name>saveFolder</name>
+   </variable>
+</TestCaseEntity>

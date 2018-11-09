@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Products Viking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ba56ace-8852-4662-94f0-08fb5cf04580</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30add107-e35b-4fe0-b52c-fb138f51d6aa</id>
+      <masked>false</masked>
+      <name>ProdNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>697e27a3-1695-4224-934b-743aa4890667</id>
+      <masked>false</masked>
+      <name>ProdName</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://dev-www.vikingelectric.com'</defaultValue>
+      <description></description>
+      <id>cbdcce10-7fe0-487c-aa2d-2088cbb7ff2e</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>417ccf33-3f9d-4057-9a28-1bfae6323fef</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>41a17748-f3eb-4f1c-b151-0d1640a57a0e</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>2263ff5a-fb12-471e-bc74-a063ccdf2274</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

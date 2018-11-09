@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0460849-64e8-4085-962d-64bface4fc43</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e173ed44-db02-4cee-af9a-c5fdcbe1a6d3</id>
+      <masked>false</masked>
+      <name>opco</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3d5c4ab-d5a6-4582-b3af-5deae057b382</id>
+      <masked>false</masked>
+      <name>usernames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1d8aebc-132e-461d-a413-8fe2b93baf06</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77cfda55-43d4-432b-9a2a-ac9331a7d418</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+</TestCaseEntity>

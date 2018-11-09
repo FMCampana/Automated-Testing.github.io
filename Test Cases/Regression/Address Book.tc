@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>46 Minutes to run</description>
+   <name>Address Book</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5bd8e94-6927-49a9-a66e-0f0c29be234c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36a40fe0-ef2d-4fd5-9619-ae0fe35e6122</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51e63d40-ade4-4b1e-83bf-fd04dc1f7dde</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>000764ae-7aa6-4653-98c3-a5db539c32ec</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c0a76293-a65d-494e-8d03-706086619448</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+</TestCaseEntity>

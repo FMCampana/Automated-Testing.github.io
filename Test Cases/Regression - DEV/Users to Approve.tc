@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>11 Minutes to run</description>
+   <name>Users to Approve</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83338976-b2ba-46c5-a968-54e5e595ddca</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>597b860e-8edb-4f8e-bd57-38933b1086d3</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e8610c08-16cb-4bef-8328-ba757ada5106</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0225fc36-0d7f-48fc-994b-4584998868e0</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40636fac-7ea3-412c-b1b1-2da2a3feafce</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+</TestCaseEntity>

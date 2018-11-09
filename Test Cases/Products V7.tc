@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Products V7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>040bde71-d6ac-498d-9ac9-41cce65839da</testCaseGuid>
+   <variable>
+      <defaultValue>'https://bat.cooper-electric.com/'</defaultValue>
+      <description></description>
+      <id>604652b9-9a1e-4443-a34e-86500838ea3b</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'fran.campana_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>fd89f378-c24d-42d1-a6f6-af0c0e99a7ed</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test12345'</defaultValue>
+      <description></description>
+      <id>a2c1c597-8fae-4261-980e-d4f9f47e9f98</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>9e5c5cbb-5a2c-435a-870e-2870367f62e4</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

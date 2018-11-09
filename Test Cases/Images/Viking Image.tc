@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Viking Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d2a6a37-19b8-47e2-a574-eff49658b570</testCaseGuid>
+   <variable>
+      <defaultValue>'https://dev-www.vikingelectric.com'</defaultValue>
+      <description></description>
+      <id>a5885444-9a4d-4993-bab9-0084dd28539c</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>7895a21f-3595-4928-bc64-f2d4f9803f1b</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>0df4f000-5fac-4227-a5b6-8c34adab4aa6</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>81195346-6efe-4047-ba83-a395fbf8e014</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Request a Quote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>495d268d-6b3d-4fa2-9827-1646d4dfbf42</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce3ecd8a-5d69-46e1-b5fc-28ebd86a2830</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d5915d8-51e7-4b72-995d-c091f88447d0</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dde91f7c-0ab8-4a06-90a2-4bd972182573</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+</TestCaseEntity>

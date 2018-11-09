@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Products IRBY</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>184dbae0-fcc9-4b95-ad34-c97fa04be78c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c277fc2-66ba-47dd-b73f-8d378996fefe</id>
+      <masked>false</masked>
+      <name>ProdNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9471ceb4-6b99-4f48-a4af-b5e098cdf064</id>
+      <masked>false</masked>
+      <name>ProdName</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://dev-www.irby.com'</defaultValue>
+      <description></description>
+      <id>c40b5442-b61a-43ad-9f17-bbcd90e4e625</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>ea8af22f-9029-465b-a36d-7a48d285fbaf</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>1b09772d-96a2-4b09-9d14-04acfcb6ceb4</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>a8b0cfe9-cc75-436f-aa58-2f08f52adb9f</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

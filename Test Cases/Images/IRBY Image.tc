@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IRBY Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37fc74f6-8a3a-4564-8950-664d297bc289</testCaseGuid>
+   <variable>
+      <defaultValue>'https://dev-www.irby.com'</defaultValue>
+      <description></description>
+      <id>5dda4c5e-e812-40b2-a072-d625388b5895</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>3b05a1c7-ccc7-491d-bef2-68fdfc831648</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>24bfab5d-d196-4744-87fa-c4824dd4576a</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>a0035960-8cf7-4203-ae81-559d63864e0d</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

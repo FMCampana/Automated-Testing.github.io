@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Product images src</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed37c897-7dc8-43a7-a274-0ef75f4ad8ca</testCaseGuid>
+   <variable>
+      <defaultValue>'https://qa2-www.crawfordelectricsupply.com/'</defaultValue>
+      <description></description>
+      <id>9dc7b560-5b15-4bfb-8de0-0ac27380bd0d</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'automated.sonepar@gmail.com'</defaultValue>
+      <description></description>
+      <id>0a2dc43e-0ff2-47e2-9cdf-8fc84e0ed1fc</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>e6aebdc5-5d77-4823-98ef-999ba62c3a0b</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://qa2-www.vikingelectric.com//wcsstore/SoneparUSB2BSAS/images/US/ProductImages/1003716-ProductImage500-296396.jpg'</defaultValue>
+      <description></description>
+      <id>1f5693da-fedd-4b39-b4f0-f454916b3216</id>
+      <masked>false</masked>
+      <name>ProdName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>ba87ebca-4c88-4bd7-b351-c5155026d961</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>13 Minutes to run</description>
+   <name>Sign In</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98310996-3bda-4046-a9ae-e7a446efe86f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>abf848ed-00ce-4fa6-ba44-0ca142a4ebf9</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61838dc7-00e8-41d6-a41e-53d134d1f75f</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>510ff90f-48c8-4af9-ad25-cb514ac4a9bf</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1a1fb50a-f235-4fe7-9946-7487abb125f3</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a292d77-1056-4780-a905-3b5b23ae8442</id>
+      <masked>false</masked>
+      <name>HeaderElement1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bfd69df0-6bca-499a-a731-aebb117719cb</id>
+      <masked>false</masked>
+      <name>HeaderElement2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c954a0b4-5718-48e3-b51a-21a348507100</id>
+      <masked>false</masked>
+      <name>HeaderElement3</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79e9e37c-0cae-4cbf-a9ad-bf51cf0f09f3</id>
+      <masked>false</masked>
+      <name>FooterElement</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04f22c00-b74a-4f4c-ac78-64de31e7daf3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6c634a81-236c-46a6-872f-f92c0c3e1cb7</id>
+      <masked>false</masked>
+      <name>ProdNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ac8eaec-ac1f-402b-9665-36211ac6ec3a</id>
+      <masked>false</masked>
+      <name>ProdName</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://qa2-www.crawfordelectricsupply.com/'</defaultValue>
+      <description></description>
+      <id>605d8d55-d132-4909-b464-54eb3b3fe836</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'automated.sonepar@gmail.com'</defaultValue>
+      <description></description>
+      <id>ef73bf47-cead-4050-a774-8464d205c95c</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>54f68b83-249f-4fcd-9a64-3600a5a7c87e</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+</TestCaseEntity>

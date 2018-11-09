@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>If Statement Example</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05f81093-565e-4b9a-926d-b20bd096eb76</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3cfc32ab-baf2-43b6-a9b9-64a8cb791a1f</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>428e52b8-fe21-4900-bfa8-c7428a4f7d46</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43567f51-1656-4323-b937-a43aae0f015d</id>
+      <masked>false</masked>
+      <name>AN</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>8559d750-f585-4d77-8e61-b026f2b980ae</id>
+      <masked>false</masked>
+      <name>OutV</name>
+   </variable>
+</TestCaseEntity>

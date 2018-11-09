@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Products Capital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21f7ed7a-d531-4545-99ee-588625b34dd6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a95c66f-a20f-48fd-b2be-9744aac1bb19</id>
+      <masked>false</masked>
+      <name>ProdNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49e9cf64-a220-4d0d-9a77-88e8802ca069</id>
+      <masked>false</masked>
+      <name>ProdName</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://dev-www.capitaltristate.com'</defaultValue>
+      <description></description>
+      <id>098d87f9-1436-4257-a928-4fec9c1b50a4</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>21131d7a-fe38-441d-ae57-d567d360e6ae</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>71e0d7e3-6a18-465b-bb53-ce0e914667d4</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>5b3a09f1-c9cd-4b5e-ab67-5a4c1b15e356</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

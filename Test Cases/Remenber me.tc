@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remenber me</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96f7dd79-a00d-456a-a2bf-ca758fbb2dd3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf7a26ae-c21a-44f6-90cf-5a374374dadf</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21b9da25-dc90-4f7d-bc0a-de32e2b9701d</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26171b5a-4307-4dc3-901d-32903b93f76a</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Missing Product Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b6418e8-8d9b-438b-bf1a-40a390e767a5</testCaseGuid>
+   <variable>
+      <defaultValue>'https://dev-www.crawfordelectricsupply.com'</defaultValue>
+      <description></description>
+      <id>2a87dbe4-0a53-4d6c-8956-5101e81143b0</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>bf20be6d-ca23-4231-b0a4-d8d47bd9da67</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>20c4a608-e250-45cb-b7e0-ce01acf59e57</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>19ee3fb4-4b13-47ea-a2ce-f1733180ccac</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

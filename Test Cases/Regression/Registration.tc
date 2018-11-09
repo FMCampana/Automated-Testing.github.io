@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>14 Minutes to run</description>
+   <name>Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd59afa1-874a-452e-8bc3-f7e23ad8885e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0692bbce-3770-462b-8402-3304c8d5a152</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6d2bd2d-6159-4a04-9960-858715725887</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>428c8254-61b2-4b64-a669-e07b6c43340f</id>
+      <masked>false</masked>
+      <name>AN</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8da1f8d6-f94c-43e9-9d56-a5b78bbdf405</id>
+      <masked>false</masked>
+      <name>OutV</name>
+   </variable>
+</TestCaseEntity>

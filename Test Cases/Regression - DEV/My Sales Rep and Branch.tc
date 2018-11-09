@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>10 Minutes to run</description>
+   <name>My Sales Rep and Branch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>346ddc29-350f-46a5-aa52-4e2b33bf3bc6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>47ed6d95-dd41-4598-936d-f6f3130a1567</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af82076f-b7dc-4b4a-ae4d-bf77a66e2bfe</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea814498-2106-44c6-9124-e92375f1f2a7</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0e2bd77-5c56-4223-b4d0-54d965ecdb09</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+</TestCaseEntity>

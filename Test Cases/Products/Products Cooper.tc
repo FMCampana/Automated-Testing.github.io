@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Products Cooper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43e1dfae-bf6b-4da9-82db-6d6407c5a412</testCaseGuid>
+   <variable>
+      <defaultValue>'https://dev-www.cooper-electric.com'</defaultValue>
+      <description></description>
+      <id>bcc4dc6a-a961-435b-8cbe-413305e1b770</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'francampanaholgate@gmail.com'</defaultValue>
+      <description></description>
+      <id>4c6753d7-e016-4e2e-a62c-338877da0ec2</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test12345'</defaultValue>
+      <description></description>
+      <id>95d35faf-b46c-45fc-9948-73135d2dac06</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>4160cae4-b46e-4877-989c-d1c3190443a2</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

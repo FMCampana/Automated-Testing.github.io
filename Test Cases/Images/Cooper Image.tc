@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cooper Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2185c342-8fa9-41f9-bb84-46aecbcecaec</testCaseGuid>
+   <variable>
+      <defaultValue>'https://dev-www.cooper-electric.com'</defaultValue>
+      <description></description>
+      <id>84556b09-f1b2-44ce-a5a6-cb35cb22b7ad</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>'stephen.eckert_ext@sonepar-us.com'</defaultValue>
+      <description></description>
+      <id>bbda1046-797d-4b07-adbc-d8f15e96784f</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>52ba6c84-158f-4a21-8bab-bce691b573c6</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fran Campana'</defaultValue>
+      <description></description>
+      <id>508285e6-df15-4efc-a775-c494dfa40447</id>
+      <masked>false</masked>
+      <name>localUser</name>
+   </variable>
+</TestCaseEntity>

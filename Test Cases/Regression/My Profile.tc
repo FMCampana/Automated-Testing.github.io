@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>23 Minutes to run</description>
+   <name>My Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0107240b-ffca-4b1e-b145-8bc3bcf57f9d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49c3c171-90ea-4335-9a05-7d180c17cf57</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56338cd3-5991-4893-9bb6-399548eabe27</id>
+      <masked>false</masked>
+      <name>WebsiteNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ee06145-0980-4164-92f0-c8e587b5be84</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e599babb-c16a-42d0-bdcf-42f939e68bf2</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c402a03f-d7ea-44ed-bb4b-cf12afc76a94</id>
+      <masked>false</masked>
+      <name>AN</name>
+   </variable>
+</TestCaseEntity>

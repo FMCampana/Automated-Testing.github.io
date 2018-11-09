@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>12 Minutes to run</description>
+   <name>Credit Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bba8962-ccaa-41a3-a3a3-19d3af976bec</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50eb65cf-11d6-448f-899a-6c6ee9c7b7f8</id>
+      <masked>false</masked>
+      <name>UserNames</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d2bff96-81c9-459b-b99f-b30cbd2f4d04</id>
+      <masked>false</masked>
+      <name>UserPasswords</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2c693f3-70bc-49ec-a409-802976212f25</id>
+      <masked>false</masked>
+      <name>WebsiteLinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73eabfd8-2fb3-46ab-9a77-ec53f4302a53</id>
+      <masked>false</masked>
+      <name>AN</name>
+   </variable>
+</TestCaseEntity>
